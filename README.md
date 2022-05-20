@@ -6,7 +6,7 @@ Docker images are a layer of another docker images.
 
 1. Building docker image
     ```sh
-    docker build -t myApp:v1
+    docker build -t myApp:v1 .
     ```
     * -t —> tag.
     * myApp —> imageName.
